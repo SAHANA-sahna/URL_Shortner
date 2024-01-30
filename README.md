@@ -1,2 +1,2 @@
 # URL_Shortner
-URL_Shortner - named TinyURL
+URL_Shortner - TinyURL using python(Django).
